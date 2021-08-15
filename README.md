@@ -1,6 +1,6 @@
 # CPP
 
-<img href="https://github.com/Sushreesatarupa/cpp/blob/main/20210814_132434.jpg">
+<img src="https://github.com/Sushreesatarupa/cpp/blob/main/20210814_132434.jpg">
 
 # COVERAGE
 
@@ -482,5 +482,5 @@
 
 - [ ] Random access iterator
 
-<img href="https://github.com/Sushreesatarupa/cpp/blob/main/20210814_132434.jpg">
+<img src="https://github.com/Sushreesatarupa/cpp/blob/main/20210814_132434.jpg">
 
