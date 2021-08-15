@@ -482,5 +482,5 @@
 
 - [ ] Random access iterator
 
-<img src="https://github.com/Sushreesatarupa/cpp/blob/main/20210814_132434.jpg">
+<img src="https://pbs.twimg.com/profile_banners/1424338147475804167/1628927707/1500x500">
 
