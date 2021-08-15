@@ -1,6 +1,6 @@
 # CPP
 
-<img src="https://github.com/Sushreesatarupa/cpp/blob/main/20210814_132434.jpg">
+<img src="https://pbs.twimg.com/media/E8xxZ1zVIAEKSiF?format=jpg&name=large">
 
 # COVERAGE
 
