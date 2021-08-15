@@ -1,6 +1,6 @@
 # CPP
 
-<img href="https://pbs.twimg.com/media/E8xxZ1zVIAEKSiF?format=jpg&name=large">
+<img href="https://github.com/Sushreesatarupa/cpp/blob/main/20210814_132434.jpg">
 
 # COVERAGE
 
@@ -481,3 +481,6 @@
 - [ ] Bidirectional iterators
 
 - [ ] Random access iterator
+
+<img href="https://github.com/Sushreesatarupa/cpp/blob/main/20210814_132434.jpg">
+
