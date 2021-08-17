@@ -4,7 +4,7 @@
 
 # COVERAGE
 
-- Introduction to Programming <a href="https://youtu.be/PLDGLxUhxUc">VIDEO</a> <a href="">NOTES</a>
+- Introduction to Programming <a href="https://youtu.be/PLDGLxUhxUc">VIDEO</a> <a href="https://github.com/Sushreesatarupa/cpp/tree/main/Module%201-%20Intro%20to%20Programming">NOTES</a>
 
 - Fundamentals in C++
 
