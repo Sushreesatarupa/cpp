@@ -48,9 +48,9 @@
 
 ## MODULE 1:-  Introduction to Programming
 
-- [ ] Program and Programming
+- [x] Program and Programming
 
-- [ ] Programming Languages
+- [x] Programming Languages
 
 - [ ] Types of software's Operating Systems
 
