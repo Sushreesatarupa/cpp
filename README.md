@@ -4,7 +4,7 @@
 
 # COVERAGE
 
-- Introduction to Programming
+- Introduction to Programming <a href="">VIDEO</a> <a href="">NOTES</a>
 
 - Fundamentals in C++
 
