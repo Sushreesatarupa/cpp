@@ -1,5 +1,5 @@
 
 # MODULE 1:- Introduction to Programming
- - Program and Programming Languages [video](https://www.youtube.com/watch?v=PLDGLxUhxUc&list=PL2FviLYGTpU3sWqMwK7ckhYTSE-wgqeDH&index=3)
- - Compiler [video](https://www.youtube.com/watch?v=sRx0wL1Gw40&list=PL2FviLYGTpU3sWqMwK7ckhYTSE-wgqeDH&index=4)
- - Interpreter, Loader and Linker
+## Resources
+ - Program and Programming Languages [ref 1](https://github.com/Sushreesatarupa/cpp/tree/main/Module%201-%20Intro%20to%20Programming)
+ - Compiler Interpreter, Loader and Linker [ref 2](https://icarus.cs.weber.edu/~dab/cs1410/textbook/1.Basics/compiler_op.html)
