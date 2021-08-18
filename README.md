@@ -46,13 +46,13 @@
 
 # SYLLABUS IN DETAILS  
 
-## MODULE 1:-  Introduction to Programming
+## MODULE 1:-  [Introduction to Programming](Module%201-%20Intro%20to%20Programming)
 
 - [x] Program and Programming Languages [video](https://www.youtube.com/watch?v=PLDGLxUhxUc&list=PL2FviLYGTpU3sWqMwK7ckhYTSE-wgqeDH&index=3)
 
 - [x] Compiler [video](https://www.youtube.com/watch?v=sRx0wL1Gw40&list=PL2FviLYGTpU3sWqMwK7ckhYTSE-wgqeDH&index=4)
 
-- [ ] Loader and Linker
+- [x] Loader and Linker [video](https://www.youtube.com/watch?v=gvyFBg1ao3A&list=PL2FviLYGTpU3sWqMwK7ckhYTSE-wgqeDH&index=5)
 
 ## MODULE 2:- Fundamentals in C++
 
