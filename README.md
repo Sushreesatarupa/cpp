@@ -48,13 +48,9 @@
 
 ## MODULE 1:-  Introduction to Programming
 
-- [x] Program and Programming  <a href="https://youtu.be/PLDGLxUhxUc">VIDEO</a>
-
-- [x] Programming Languages
-
-- [ ] Types of software's Operating Systems
-
-- [ ] Compiler, Interpreter, Loader and Linker
+- [x] Program and Programming Languages
+- [x] Compiler
+- [ ] Interpreter, Loader and Linker
 
 ## MODULE 2:- Fundamentals in C++
 
