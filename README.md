@@ -48,9 +48,9 @@
 
 ## MODULE 1:-  Introduction to Programming
 
-- [x] Program, Programming and Programming Languages <a href="https://youtu.be/PLDGLxUhxUc">VIDEO</a>
+- [x] Program and Programming Languages [video](https://www.youtube.com/watch?v=PLDGLxUhxUc&list=PL2FviLYGTpU3sWqMwK7ckhYTSE-wgqeDH&index=3)
 
-- [x] Compiler, Interpreter <a href="https://youtu.be/PLDGLxUhxUc">VIDEO</a>
+- [x] Compiler [video](https://www.youtube.com/watch?v=sRx0wL1Gw40&list=PL2FviLYGTpU3sWqMwK7ckhYTSE-wgqeDH&index=4)
 
 - [ ] Loader and Linker
 
