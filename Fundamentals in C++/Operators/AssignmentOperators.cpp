@@ -1,8 +1,13 @@
-Assignment operator “=” is used to assigning a value to a variable. The LHS of the assignment operator is a variable and RHS is the value that is to be assigned to the variable. The value on the right side must be of the same type as that of the variable on the left-hand side.
+/*Assignment operator “=” is used to assigning a value to a variable. 
+The LHS of the assignment operator is a variable and RHS is the value that is to be assigned to the variable. 
+The value on the right side must be of the same type as that of the variable on the left-hand side.
 
-Note the difference between ‘=’ and ‘==’ operators. The former is the assignment operator and the later is the equality operator.
+Note the difference between ‘=’ and ‘==’ operators. 
+The former is the assignment operator and the later is the equality operator.
 
-Assignment operation takes place from right to left. Apart from the assignment operator ‘=’, there are other variations of assignment operator which are known as ‘compound assignment operators”. These operators perform an operation in addition to the assignment.
+Assignment operation takes place from right to left. 
+Apart from the assignment operator ‘=’, there are other variations of assignment operator which are known as ‘compound assignment operators”. 
+These operators perform an operation in addition to the assignment.
 
 The below table gives us a description of these assignment operators.
 
@@ -12,17 +17,13 @@ Operator	Description
 -=	Subtracts RHS operand to LHS operand and assigns the result to LHS operand
 *=	multiplies RHS operand to LHS operand and assigns the result to LHS operand
 /=	divides RHS operand to LHS operand and assigns the result to LHS operand
-As shown in the above table, If x and y are operands, x+=y is equivalent to x = x+y.
 
-Similarly,
-
+As shown in the above table, If x and y are operands, 
+x+=y is equivalent to x = x+y.
 x -=y is equivalent to x = x-y.
-
 x *= y is equivalent to x = x*y.
-
 x /= y is equivalent to x = x/y.
-
-The below programming Example demonstrates these Assignment Operators.
+*/
 
 #include <iostream>
 #include <string>
@@ -48,6 +49,8 @@ int main()
    
   return 0;
   }
+
+  /*
 Output:
 
 Enter input variable y: 4
@@ -65,3 +68,4 @@ In the above example, we have demonstrated assignment as well as compound assign
 
 Note: We can also combine the other binary operators like %, <<, >>, &, |, ^, etc. into compound assignment statements in addition to the ones that are already demonstrated.
 
+*/

@@ -1,4 +1,4 @@
-Bitwise operators in C++ operate on bits of the operands provided. Bitwise operators are applied only to integral types like integer, character, etc., and not on data types like float, double, etc.
+/*Bitwise operators in C++ operate on bits of the operands provided. Bitwise operators are applied only to integral types like integer, character, etc., and not on data types like float, double, etc.
 
 Following are the bitwise operators supported by C++:
 
@@ -37,7 +37,7 @@ In the above example, we see that the bitwise AND of 8 and 4 is 0. Bitwise OR of
 
 This is the way in which bitwise operations are performed by the bitwise operators.
 
-An Example demonstrating the Bitwise Operators.
+*/
 
 #include <iostream>
 #include <string>
@@ -61,6 +61,7 @@ int main()
   c = ~3;
   cout<<"Result of ~ : "<<c<<endl;
 }
+/*
 Output:
 
 Result of & : 0
@@ -71,3 +72,4 @@ Result of >> by 2 bits: 1
 Result of ~ : -4
 
 In the above program, we demonstrated the usage of bitwise operators and also printed the output of each of the operation.
+*/

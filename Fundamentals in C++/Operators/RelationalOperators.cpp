@@ -1,4 +1,4 @@
-Relational or comparison operators are used to compare two operands. The result of the evaluation is either true or false.
+/* Relational or comparison operators are used to compare two operands. The result of the evaluation is either true or false.
 
 C++ supports the following Relational Operators:
 
@@ -9,7 +9,7 @@ Operator	Description
 <=(less than equal to)	Returns true if the first operand is less than or equal to the second operand. False otherwise.
 >(greater than)	Returns true if the first operand is greater than second. False otherwise.
 >=(greater than equal to)	Returns true if the first operand is greater than equal to the second. False otherwise.
-See the below Example program to understand the Relational Operators.
+*/
 
 #include <iostream>
 #include <string>
@@ -34,6 +34,7 @@ int main()
      cout<<"(a-b) greater than/equal to (d-c)"<<endl;
  
 }
+/*
 Output:
 
 a is not equal to b
@@ -43,4 +44,4 @@ c is not equal to d
 
 In the above program, we see the usage of relational operators and the way in which they evaluate the expressions provided.
 
-Note that we can provide not only values but also variables and expressions in the conditional statements.
+Note that we can provide not only values but also variables and expressions in the conditional statements.*/
