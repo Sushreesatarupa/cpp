@@ -48,9 +48,11 @@
 
 ## MODULE 1:-  Introduction to Programming
 
-- [x] Program and Programming Languages
-- [x] Compiler
-- [ ] Interpreter, Loader and Linker
+- [x] Program, Programming and Programming Languages <a href="https://youtu.be/PLDGLxUhxUc">VIDEO</a>
+
+- [x] Compiler, Interpreter <a href="https://youtu.be/PLDGLxUhxUc">VIDEO</a>
+
+- [ ] Loader and Linker
 
 ## MODULE 2:- Fundamentals in C++
 
