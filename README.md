@@ -52,7 +52,9 @@
 
 - [x] Compiler [video](https://www.youtube.com/watch?v=sRx0wL1Gw40&list=PL2FviLYGTpU3sWqMwK7ckhYTSE-wgqeDH&index=4)
 
-- [x] Loader and Linker [video](https://www.youtube.com/watch?v=gvyFBg1ao3A&list=PL2FviLYGTpU3sWqMwK7ckhYTSE-wgqeDH&index=5)
+- [x] Interpreter Loader and Linker [video](https://www.youtube.com/watch?v=gvyFBg1ao3A&list=PL2FviLYGTpU3sWqMwK7ckhYTSE-wgqeDH&index=5)
+
+- [x] Running Your First C++ Code [video](https://www.youtube.com/watch?v=vynD25ihalE&list=PL2FviLYGTpU3sWqMwK7ckhYTSE-wgqeDH&index=6)
 
 ## MODULE 2:- Fundamentals in C++
 
