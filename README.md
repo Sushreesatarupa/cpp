@@ -4,7 +4,7 @@
 
 # COVERAGE
 
-- [Introduction to Programming](Module%201-%20Intro%20to%20Programming) <a href="https://github.com/Sushreesatarupa/cpp/tree/main/Module%201-%20Intro%20to%20Programming">NOTES</a>
+- Introduction to Programming
 
 - Fundamentals in C++
 
