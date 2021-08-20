@@ -2,6 +2,10 @@
 
 <img src="https://pbs.twimg.com/media/E8xxZ1zVIAEKSiF?format=jpg&name=large">
 
+- [] Discord Server [Link](https://discord.gg/vQfEuVnGe3)
+
+- [] YouTube Channel [Link](https://www.youtube.com/channel/UCZrPV5fhnvvG3C0m8RrIFhA)
+
 # COVERAGE
 
 - Introduction to Programming
