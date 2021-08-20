@@ -58,7 +58,7 @@
 
 ## MODULE 2:- Fundamentals in C++
 
-- [x] Keywords, Variables, Constants [video](https://www.youtube.com/watch?v=vynD25ihalE&list=PL2FviLYGTpU3sWqMwK7ckhYTSE-wgqeDH&index=6)
+- [x] Keywords, Variables, Constants [video](https://youtu.be/rweHlvAtOBc)
 
 - [ ] Data type
 
