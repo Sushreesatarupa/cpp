@@ -56,7 +56,7 @@
 
 - [x] Running Your First C++ Code [video](https://www.youtube.com/watch?v=vynD25ihalE&list=PL2FviLYGTpU3sWqMwK7ckhYTSE-wgqeDH&index=6)
 
-## MODULE 2:- Fundamentals in C++
+## MODULE 2:- [Fundamentals in C++](Module%202%20-%20Fundamentals%20in%20C%2B%2B)
 
 - [x] Keywords, Variables, Constants [video](https://youtu.be/rweHlvAtOBc)
 
