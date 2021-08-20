@@ -42,7 +42,6 @@
 
 - STL
 
-- Process and Thread
 
 # SYLLABUS IN DETAILS  
 
